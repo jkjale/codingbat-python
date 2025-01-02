@@ -14,4 +14,3 @@ def sorta_sum(a, b):
   return sum
 
 
-
